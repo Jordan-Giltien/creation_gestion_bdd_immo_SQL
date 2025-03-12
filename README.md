@@ -1,5 +1,5 @@
 # Création et utilisation d'une BDD immobilière en SQL
-![aaa](https://github.com/Jordan-Giltien/creation_gestion_bdd_immo_SQL/blob/main/images/image_creation_gestion_bdd_immo_SQL.JPG)
+![](https://github.com/Jordan-Giltien/creation_gestion_bdd_immo_SQL/blob/main/images/image_creation_gestion_bdd_immo_SQL.JPG)
 
 ## Contexte
 Je suis data Analyst chez Laplace Immo, un réseau national d’agences immobilières. La direction souhaite créer un modèle pour mieux prévoir le prix de vente des biens immobiliers.
